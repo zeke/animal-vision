@@ -1,0 +1,7 @@
+model: "predict.py:AnimalVisionModel"
+environment:
+  python_version: "3.8"
+  python_requirements: "requirements.txt"
+  # system_packages:
+  #   - libgl1-mesa-glx
+  #   - libglib2.0-0
