@@ -2,6 +2,8 @@
 
 A crash course in machine learning, taught by [@bfirsh](https://github.com/bfirsh).
 
+🍿 [Watch the video](https://youtu.be/keva-R-D1Ig)
+
 ## Links
 
 - https://replicate.ai/
