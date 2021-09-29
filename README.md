@@ -1,4 +1,4 @@
-# Animal Vision
+# Cat Detector 🐈
 
 A crash course in machine learning, taught by [@bfirsh](https://github.com/bfirsh).
 
